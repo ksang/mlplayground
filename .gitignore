@@ -103,3 +103,4 @@ ENV/
 # tensorflow
 data
 checkpoints
+.tags*
